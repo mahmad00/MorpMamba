@@ -22,7 +22,7 @@ Several public hyperspectral datasets are available on the [EHU]([http://www.ehu
 Datasets
 ├── University of Houston
 │   ├── UH.mat
-│   └── UG_gt.mat
+│   └── UH_gt.mat
 ├── Pavia University
 │   ├── PU.mat
 │   └── PU_gt.mat

@@ -17,7 +17,7 @@
 
 # Hyperspectral datasets
 
-Several public hyperspectral datasets are available on the [EHU]([http://www.ehu.eus/ccwintco/index.php?title=Hyperspectral_Remote_Sensing_Scenes](https://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes)). Users can download those beforehand. 
+Several public hyperspectral datasets are available on the [EHU](https://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes). Users can download those beforehand. 
 ```
 Datasets
 ├── University of Houston
